@@ -1,0 +1,4 @@
+name: potionSword
+version: 1.0
+main: cn.codetector.minecraftplugins.gamemode4.potionSword.potionSwordMain
+author: codetector
